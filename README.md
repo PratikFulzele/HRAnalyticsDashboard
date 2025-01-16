@@ -73,13 +73,13 @@ Interactive icons allow navigation between dashboards by pressing **Ctrl + Left 
 
 ## 🖼️ **Dashboard Previews**  
 ### Org Dashboard:  
-![Org Dashboard](1)  
+![Org Dashboard]([1](https://github.com/PratikFulzele/HRAnalyticsDashboard/blob/main/1.PNG))  
 
 ### Males Dashboard:  
-![Males Dashboard](2)  
+![Males Dashboard]([2](https://github.com/PratikFulzele/HRAnalyticsDashboard/blob/main/2.PNG))  
 
 ### Females Dashboard:  
-![Females Dashboard](3)  
+![Females Dashboard]([3](https://github.com/PratikFulzele/HRAnalyticsDashboard/blob/main/3.PNG))  
 
 ---
 
